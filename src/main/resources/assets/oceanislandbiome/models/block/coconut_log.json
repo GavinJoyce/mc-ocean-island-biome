@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "oceanislandbiome:block/coconut_log_top",
+    "side": "oceanislandbiome:block/coconut_log"
+  }
+}

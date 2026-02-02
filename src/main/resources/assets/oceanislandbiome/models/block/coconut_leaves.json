@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "oceanislandbiome:block/coconut_leaves"
+  }
+}
